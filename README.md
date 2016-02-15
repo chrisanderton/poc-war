@@ -1,0 +1,1 @@
+Proxies the request to the URL specified in the NODE_URL config variable and returns the response - passes through the response header from the Node app that shows the IP as seen on the Node app.
